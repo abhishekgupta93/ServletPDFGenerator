@@ -8,4 +8,6 @@ Steps:
 4. CreatePDF.java uses itextpdf to create a pdf.
 5. Pass the pdf to output stream in Servlet.
 
+Sample pdf at ServletPDFGenerator\Reports
+
 Feel free to ask any doubts at abhishek.gupta2693@gmail.com
